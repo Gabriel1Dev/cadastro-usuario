@@ -162,12 +162,3 @@ cadastro-usuario/
 ├── mvnw / mvnw.cmd      # Scripts do Maven Wrapper
 └── pom.xml              # Dependências e configuração do build
 ```
-
-## 🔭 Próximos passos
-
-- [ ] Validação de dados com Bean Validation
-- [ ] Tratamento global de exceções
-- [ ] Documentação da API com Swagger / OpenAPI
-- [ ] Testes unitários e de integração
-- [ ] Persistência em banco relacional (PostgreSQL ou MySQL)
-- [ ] Containerização com Docker
